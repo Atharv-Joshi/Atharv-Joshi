@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **Atharv-Joshi/Atharv-Joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🌱 I’m currently learning Data Analysis and Machine Learning
+- 👯 I’m looking to collaborate on Game Development
+- 🤔 I’m looking for help with Web Development
+- 💬 Ask me about Python , Cpp
+- 📫 How to reach me : joshiatharv1078@protonmail.com
+- ⚡ Hobbies: Reading books, Video Games, Star Grazing 
+
