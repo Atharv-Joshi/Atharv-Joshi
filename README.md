@@ -13,3 +13,10 @@
 - ⚡ Hobbies: Reading books, Video Games, Star Grazing 
 
 ![](https://hit.yhype.me/github/profile?user_id=53505850)
+
+
+<p align="center">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Atharv-Joshi&show_icons=true&theme=tokyonight" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Joshi&count_private=true&theme=tokyonight" />
+</p>
+
