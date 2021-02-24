@@ -16,9 +16,9 @@
 
 
 <p align="center">
-  <img alt="AlfredDagenais's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alfreddagenais&show_icons=true&hide_border=true" />
+  <img alt="AtharvJoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Atharv-Joshi&show_icons=true&hide_border=true" />
 
-  <img alt="AlfredDagenais's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfreddagenais&layout=compact&hide_border=true" />
+  <img alt="AtharvJoshi's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Joshi&layout=compact&hide_border=true" />
 
 </p>
 
