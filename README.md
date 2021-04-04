@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning Data Analysis and Machine Learning
-- 👯 I’m looking to collaborate on Game Development
-- 🤔 I’m looking for help with Web Development
+- 🌱 I’m currently learning Data Analysis and Flutter
+- 👯 I’m looking to collaborate on Web Development
+- 🤔 I’m looking for help with Flutter 
 - 💬 Ask me about Python , Cpp
 - 📫 How to reach me : joshiatharv1078@protonmail.com
 - ⚡ Hobbies: Reading books, Video Games, Star Grazing 
