@@ -1,3 +1,6 @@
+![cover](https://user-images.githubusercontent.com/53505850/149099810-ef205d3f-a6de-4301-b19a-002a411d57e6.gif)
+
+
 ### Hello There 👋
 
 - 🌱 I’m currently learning Data Analysis and Flutter
